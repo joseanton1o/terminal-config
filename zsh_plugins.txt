@@ -1,0 +1,1 @@
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions sudo colored-man-pages fzf docker kubectl fzf-tab web-search copypath copyfile dirhistory jsontools ant copybuffer)
